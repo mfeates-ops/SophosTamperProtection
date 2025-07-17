@@ -1,4 +1,4 @@
-# README: Guide to Running FetchTamper.py
+# Guide to Running FetchTamper.py
 
 ## Overview
 This script is designed to generate a report of tamper protection passwords for all devices in Sophos Central. It uses the Sophos Central API to fetch data about sub-estates (tenants) and devices, retrieves tamper passwords where enabled, and outputs the results to a CSV file.
