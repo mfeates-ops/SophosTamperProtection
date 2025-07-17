@@ -59,7 +59,7 @@ This script is designed to generate a report of tamper protection passwords for 
    - Navigate to the directory containing the script and config.ini.
 
 2. **Execute the Script:**
-   - Run: `python Sophos_Central_Get_Tamper_Passwords.py` (or `python3` on some systems).
+   - Run: `python FetchTamper.py` (or `python3` on some systems).
    - If ClientSecret is blank in config.ini, enter it when prompted.
 
 3. **Script Prompts:**
