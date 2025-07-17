@@ -4,8 +4,8 @@
 This script is designed to generate a report of tamper protection passwords for all devices in Sophos Central. It uses the Sophos Central API to fetch data about sub-estates (tenants) and devices, retrieves tamper passwords where enabled, and outputs the results to a CSV file.
 
 **Important Notes:**
-- This is an unsupported script provided by Sophos Support.
-- This was written by Matt Feates (Senior Global Escalation Engineer 3 - ESG ESG)
+- This is not supported by Sophos Support.
+- This was written by Matt Feates
 - It requires API credentials (Client ID and Client Secret) from Sophos Central.
 - The script handles partners, organizations, and tenants.
 - It supports pagination, rate limiting retries, and token refresh.
