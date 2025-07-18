@@ -115,6 +115,4 @@ This script is designed to generate a report of tamper protection passwords for 
 - Add more retries/delays in get_all_devices() if rate limits are frequent.
 
 ## License
-- GNU GPL v3.0 (see script header).
-
-For support, contact Sophos Professional Services (unsupported script). If issues persist, provide console output and error codes.
+- GNU GPL v3.0 (see script header)
